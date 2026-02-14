@@ -1,0 +1,12 @@
+{
+  "name": "planit-redirect",
+  "version": "1.0.0",
+  "description": "Professional redirect page for Plan It Services",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
